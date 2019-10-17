@@ -1,0 +1,6 @@
+framework module Pods_State_BordersUITests {
+  umbrella header "Pods-State BordersUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
